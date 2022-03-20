@@ -1,0 +1,3 @@
+Classification of Handwritten Digits is a graduate project for track Introductory Machine Learning in Python.
+Graduate projects contain core topics for this track. At least one graduate project is required to complete the track.
+In this project, you are going to explore the main classification algorithms and learn how to find and train the best possible model for the classification of handwritten digits. You will need to process a dataset that includes images of handwritten numbers from 0 to 9. The ultimate goal is to train the model to identify a digit on the picture. Sounds interesting? Let's dive into it!
